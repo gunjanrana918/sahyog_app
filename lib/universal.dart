@@ -1,0 +1,34 @@
+class universaldata {
+  static String otp = "";
+  static String chkotp = "";
+  static String dname = "";
+  static String dimage = "";
+  static String demail = "";
+  static String dmobile = "";
+  static String dpassword = "";
+  static String dnewpassword = "";
+  static String doldpassword = "";
+  static String dconfirmpassword = "";
+  static String dpincode = "";
+  static String dcity = "";
+  static String did = "";
+  static String cid = "";
+  static String rid = "";
+  static String rname = "";
+  static String rage = "";
+  static String rdphoto = "";
+  static String rmimage = "";
+  static String rmvideo = "";
+  static String rsex = "";
+  static String rmobile = "";
+  static String remail = "";
+  static String ramount = "";
+  static String rgoalamount = "";
+  static String rdescription = "";
+  static String rmmedia = "";
+  static String rmtype = "";
+  static String rmid = "";
+  static String tcreatedate = "";
+  static String rmcreatedate = "";
+  static String transamount = "";
+}
